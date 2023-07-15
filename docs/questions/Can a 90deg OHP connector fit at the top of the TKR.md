@@ -1,6 +1,6 @@
 # Can a 90deg OHP connector fit at the top of the TKR?
 
-Ref. Issue/PR: #182
+Ref. Issue/PR: GAPS-Collab/Tasks#182
 
 ## Outline
 
