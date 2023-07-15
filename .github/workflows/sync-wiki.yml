@@ -11,8 +11,6 @@ on:
 
 concurrency:
   group: sync-wiki
-permissions:
-  contents: write
 
 jobs:
   sync-to-wiki:
