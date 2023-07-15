@@ -20,12 +20,16 @@ jobs:
       - name: Checkout Repo
         uses: actions/checkout@v3
       - name: Sync Repo Folder to Wiki
-        uses: newrelic/wiki-sync-action@main
+#         uses: newrelic/wiki-sync-action@main
+#         with:
+#           source: wiki_docs
+#           destination: wiki
+#           token: ${{ secrets.GITHUB_TOKEN }}
+#           branch: main
+        uses: Andrew-Chen-Wang/github-wiki-action@v4
         with:
-          source: wiki_docs
-          destination: wiki
-          token: ${{ secrets.GITHUB_TOKEN }}
-          branch: main
+          strategy: clone
+          path: wiki_docs/
   
   sync-from-wiki:
     runs-on: ubuntu-latest
