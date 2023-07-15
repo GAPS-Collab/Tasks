@@ -31,7 +31,7 @@ jobs:
   
   sync-from-wiki:
     runs-on: ubuntu-latest
-    if: github.event_name == "gollum"
+    if: github.event_name == 'gollum'
     steps:
       - name: Checkout Repo
         uses: actions/checkout@v3
