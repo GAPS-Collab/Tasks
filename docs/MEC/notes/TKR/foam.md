@@ -31,18 +31,20 @@
 | `GAPS-TKR-MEC-204` |    24     |  96   | "Locating Dowel, Large"                |
 | `GAPS-TKR-MEC-205` |     4     |  16   | "Locating Dowel, Small"                |
 
-### Odd Layers (7, 5, & 3)
+### Odd Layers (7, 5, 3, & 1)
 
 - Governing CAD model is `GAPS-TKR-MEC-310 Layer Assy Odd, Tracker. sldasm`
 - Model includes the foam below the detector layer and the detector modules
-- Model reference is for odd layers (7, 5, and 3)...interface boards
+- Model reference is for odd layers (7, 5, 3, and 1)...interface boards
   facing radiator side
 
 |   Foam Component   |    QTY    |  QTY  | Notes                                  |
 |:------------------:|:---------:|:-----:|:---------------------------------------|
 |                    | per Layer | TOTAL |                                        |
-| `GAPS-TKR-MEC-304` |     6     |  18   | "Center Section, Odd Layers, Tracker"  |
-| `GAPS-TKR-MEC-302` |     1     |   3   | "Outer Section 1, Mid Layers, Tracker" |
-| `GAPS-TKR-MEC-303` |     1     |   3   | "Outer Section 2, Mid Layers, Tracker" |
-| `GAPS-TKR-MEC-204` |    24     |  72   | "Locating Dowel, Large"                |
-| `GAPS-TKR-MEC-205` |     4     |  12   | "Locating Dowel, Small"                |
+| `GAPS-TKR-MEC-304` |     6     |  24   | "Center Section, Odd Layers, Tracker"  |
+| `GAPS-TKR-MEC-302` |     1     |   4   | "Outer Section 1, Mid Layers, Tracker" |
+| `GAPS-TKR-MEC-303` |     1     |   4   | "Outer Section 2, Mid Layers, Tracker" |
+| `GAPS-TKR-MEC-204` |    24     |  96   | "Locating Dowel, Large"                |
+| `GAPS-TKR-MEC-205` |     4     |  16   | "Locating Dowel, Small"                |
+
+
