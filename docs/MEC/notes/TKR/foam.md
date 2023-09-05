@@ -6,6 +6,7 @@
 
 - Governing CAD model is `GAPS-TKR-MEC-200 Layer Assy 1, Tracker. sldasm`
 - Model includes Layer 9 detectors and lower foam
+- Interface boards face radiator side
 
 |   Foam Component   | QTY | Notes                                |
 |:------------------:|:---:|:-------------------------------------|
@@ -19,8 +20,8 @@
 
 - Governing CAD model is `GAPS-TKR-MEC-300 Layer Assy Even, Tracker. sldasm`
 - Model includes the foam below the detector layer and the detector modules
-- Model reference is for even layers (8, 6, 4, and 2)...interface boards
-  facing non-boom side
+- Model reference is for even layers (8, 6, 4, and 2)
+- Interface boards face non-boom side
 
 |   Foam Component   |    QTY    |  QTY  | Notes                                  |
 |:------------------:|:---------:|:-----:|:---------------------------------------|
@@ -35,8 +36,8 @@
 
 - Governing CAD model is `GAPS-TKR-MEC-310 Layer Assy Odd, Tracker. sldasm`
 - Model includes the foam below the detector layer and the detector modules
-- Model reference is for odd layers (7, 5, 3, and 1)...interface boards
-  facing radiator side
+- Model reference is for odd layers (7, 5, 3, and 1)
+- Interface boards face radiator side
 
 |   Foam Component   |    QTY    |  QTY  | Notes                                  |
 |:------------------:|:---------:|:-----:|:---------------------------------------|
