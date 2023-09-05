@@ -2,6 +2,9 @@
 
 ## Foam at Each Layer
 
+For the first Tracker build (2022-2023) the foam used was
+[Ethafoam 220 AS](http://www.qualityfoam.com/docs/ethafoam-220-as.pdf).
+
 ### Layer 9
 
 - Governing CAD model is `GAPS-TKR-MEC-200 Layer Assy 1, Tracker. sldasm`
