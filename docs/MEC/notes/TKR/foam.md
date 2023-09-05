@@ -15,4 +15,18 @@
 | `GAPS-TKR-MEC-204` | 24  | "Locating Dowel, Large"              |
 | `GAPS-TKR-MEC-205` |  4  | "Locating Dowel, Small"              |
 
+### Even Layers (8, 6, 4, & 2)
 
+- Governing CAD model is `GAPS-TKR-MEC-300 Layer Assy Even, Tracker. sldasm`
+- Model includes the foam below the detector layer and the detector modules
+- Model reference is for Even layers (8, 6, 4, and 2)...interface boards
+  facing non-boom side
+
+|   Foam Component   |    QTY    |  QTY  | Notes                                  |
+|:------------------:|:---------:|:-----:|:---------------------------------------|
+|                    | per Layer | TOTAL |                                        |
+| `GAPS-TKR-MEC-301` |     6     |  24   | "Center Section, Even Layers, Tracker" |
+| `GAPS-TKR-MEC-302` |     1     |   4   | "Outer Section 1, Mid Layers, Tracker" |
+| `GAPS-TKR-MEC-303` |     1     |   4   | "Outer Section 2, Mid Layers, Tracker" |
+| `GAPS-TKR-MEC-204` |    24     |  96   | "Locating Dowel, Large"                |
+| `GAPS-TKR-MEC-205` |     4     |  16   | "Locating Dowel, Small"                |
