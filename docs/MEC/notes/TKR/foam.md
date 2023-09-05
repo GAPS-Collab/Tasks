@@ -48,4 +48,19 @@
 | `GAPS-TKR-MEC-204` |    24     |  96   | "Locating Dowel, Large"                |
 | `GAPS-TKR-MEC-205` |     4     |  16   | "Locating Dowel, Small"                |
 
+### Layer 0 (Top Layer)
 
+- Governing CAD model is `GAPS-TKR-MEC-350 Layer Assy 10, Tracker. sldasm`
+- Model includes the foam below the detector layer and the detector modules
+- Model reference is for Layer 0
+- Interface boards face non-boom side
+
+|   Foam Component   |    QTY    |  QTY  | Notes                                   |
+|:------------------:|:---------:|:-----:|:----------------------------------------|
+|                    | per Layer | TOTAL |                                         |
+| `GAPS-TKR-MEC-305` |     6     |   6   | "Center Section, Layer 10 Bot, Tracker" |
+| `GAPS-TKR-MEC-306` |     6     |   6   | "Center Section, Layer 10 Top, Tracker" |
+| `GAPS-TKR-MEC-302` |     1     |   1   | "Outer Section 1, Mid Layers, Tracker"  |
+| `GAPS-TKR-MEC-303` |     1     |   1   | "Outer Section 2, Mid Layers, Tracker"  |
+| `GAPS-TKR-MEC-204` |    24     |  24   | "Locating Dowel, Large"                 |
+| `GAPS-TKR-MEC-205` |     4     |   4   | "Locating Dowel, Small"                 |
