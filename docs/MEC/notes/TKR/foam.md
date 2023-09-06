@@ -2,8 +2,12 @@
 
 ## Foam at Each Layer
 
-For the first Tracker build (2022-2023) the foam used was
+- For the first Tracker build (2022-2023) the foam used was
 [Ethafoam 220 AS](http://www.qualityfoam.com/docs/ethafoam-220-as.pdf).
+- Referenced drawing and files can be found on the
+  [GAPS Nextcloud](https://gaps1.astro.ucla.edu/nextcloud/index.php/f/7163).
+  For access to the Nextclould refer to the instructions on the
+  [GAPS wiki](https://gaps1.astro.ucla.edu/wiki/gaps/index.php?title=Nextcloud).
 
 ### Layer 9
 
