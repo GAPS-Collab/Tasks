@@ -2,6 +2,8 @@
 
 ## Foam at Each Layer
 
+- The selected foam for the 2nd Tracker build (2023-present) is
+  [Owens Corning Foamular NGX 250](https://dcpd6wotaa0mb.cloudfront.net/mdms/dms/EIS/43522/43522-FOAMULAR-250-XPS-Insulation-Product-Data-Sheet.pdf?v=1664703006000).
 - For the first Tracker build (2022-2023) the foam used was
 [Ethafoam 220 AS](http://www.qualityfoam.com/docs/ethafoam-220-as.pdf).
 - Referenced drawing and files can be found on the
