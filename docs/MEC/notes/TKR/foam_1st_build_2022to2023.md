@@ -75,7 +75,7 @@
 
 ### Above Layer 0
 
-- Governing CAD model is `GAPS-TKR-MEC-400 Layer Assy 10, Tracker. sldasm`
+- Governing CAD model is `GAPS-TKR-MEC-400 Layer Assy 11, Tracker. sldasm`
 - Model reference is for foam above Layer 0
 
 |   Foam Component   |    QTY    |  QTY  | Notes                                     |
