@@ -21,11 +21,13 @@
 - Even Layers = Layers 8, 6, 4, and 2
 - Odd Layers = Layers 7, 5, 3, and 1
 
-|   Foam Component   | Where? |  QTY  |  QTY   |  QTY  | Notes                    |
-|:------------------:|:------:|:-----:|:------:|:-----:|:-------------------------|
-|                    |        | Exact | Spares | TOTAL |                          |
-| `GAPS-TKR-MEC-204` |  All   |  240  |        |       | "Locating Dowel, Large"  |
-| `GAPS-TKR-MEC-205` |  All   |  40   |        |       | "Locating Dowel, Small"  |
+|   Foam Component   | Where? |  QTY  |  QTY   |  QTY  | Notes                                     |
+|:------------------:|:------:|:-----:|:------:|:-----:|:------------------------------------------|
+|                    |        | Exact | Spares | TOTAL |                                           |
+| `GAPS-TKR-MEC-204` |  All   |  240  |        |       | "Locating Dowel, Large"                   |
+| `GAPS-TKR-MEC-205` |  All   |  40   |        |       | "Locating Dowel, Small"                   |
+| `GAPS-TKR-MEC-301` |  BEL   |  24   |        |       | "Center Section, Even Layers, Tracker"    |
+| `GAPS-TKR-MEC-404` |  AL0   |   6   |        |       | "Center Section, Layer 11 Upper, Tracker" |
 
 ### Layer Assemblies
 
@@ -59,7 +61,6 @@
 |   Foam Component   |    QTY    |  QTY  | Notes                                  |
 |:------------------:|:---------:|:-----:|:---------------------------------------|
 |                    | per Layer | TOTAL |                                        |
-| `GAPS-TKR-MEC-301` |     6     |  24   | "Center Section, Even Layers, Tracker" |
 | `GAPS-TKR-MEC-302` |     1     |   4   | "Outer Section 1, Mid Layers, Tracker" |
 | `GAPS-TKR-MEC-303` |     1     |   4   | "Outer Section 2, Mid Layers, Tracker" |
 
@@ -98,4 +99,4 @@
 | `GAPS-TKR-MEC-401` |     6     |   6   | "Center Section, Layer 11 Bot, Tracker"   |
 | `GAPS-TKR-MEC-402` |     1     |   1   | "Outer Section 1, Layer 11, Tracker"      |
 | `GAPS-TKR-MEC-403` |     1     |   1   | "Outer Section 2, Layer 11, Tracker"      |
-| `GAPS-TKR-MEC-404` |     6     |   6   | "Center Section, Layer 11 Upper, Tracker" |
+
