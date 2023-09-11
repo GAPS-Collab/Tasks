@@ -21,6 +21,8 @@
 - Even Layers = Layers 8, 6, 4, and 2
 - Odd Layers = Layers 7, 5, 3, and 1
 
+#### Full Component
+
 |   Foam Component   | Where? |  QTY  |  QTY   |  QTY  | Notes                                     |
 |:------------------:|:------:|:-----:|:------:|:-----:|:------------------------------------------|
 |                    |        | Exact | Spares | TOTAL |                                           |
@@ -29,6 +31,19 @@
 | `GAPS-TKR-MEC-301` |  BEL   |  24   |        |       | "Center Section, Even Layers, Tracker"    |
 | `GAPS-TKR-MEC-401` |  AL0   |   6   |        |       | "Center Section, Layer 11 Bot, Tracker"   |
 | `GAPS-TKR-MEC-404` |  AL0   |   6   |        |       | "Center Section, Layer 11 Upper, Tracker" |
+| `GAPS-TKR-MEC-501` |  AL0   |   1   |        |       | "Section 1, Layer 12, Tracker"            |
+
+#### Waterjet Cut Component
+
+|    Foam Component    | Where? |  QTY  |  QTY   |  QTY  | Notes                                     |
+|:--------------------:|:------:|:-----:|:------:|:-----:|:------------------------------------------|
+|                      |        | Exact | Spares | TOTAL |                                           |
+|  `GAPS-TKR-MEC-204`  |  All   |  240  |        |       | "Locating Dowel, Large"                   |
+|  `GAPS-TKR-MEC-205`  |  All   |  40   |        |       | "Locating Dowel, Small"                   |
+| `GAPS-TKR-MEC-301-W` |  BEL   |  24   |        |       | "Center Section, Even Layers, Tracker"    |
+| `GAPS-TKR-MEC-401-W` |  AL0   |   6   |        |       | "Center Section, Layer 11 Bot, Tracker"   |
+| `GAPS-TKR-MEC-404-W` |  AL0   |   6   |        |       | "Center Section, Layer 11 Upper, Tracker" |
+| `GAPS-TKR-MEC-501-W` |  AL0   |   1   |        |       | "Section 1, Layer 12, Tracker"            |
 
 ### Layer Assemblies
 
