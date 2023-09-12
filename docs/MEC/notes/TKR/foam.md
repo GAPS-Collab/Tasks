@@ -67,6 +67,7 @@
 |   Odd    | `GAPS-TKR-MEC-310` | "Layer Assy Odd, Tracker"  |
 |    0     | `GAPS-TKR-MEC-350` | "Layer Assy 10, Tracker"   |
 |   Top    | `GAPS-TKR-MEC-400` | "Layer Assy 11, Tracker"   |
+| Top Cap  | `GAPS-TKR-MEC-500` | "Layer Assy 12, Tracker"   |
 
 ### Layer 9
 
