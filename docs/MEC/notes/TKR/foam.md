@@ -32,6 +32,7 @@
 | `GAPS-TKR-MEC-401` |  AL0   |   6   |        |       | "Center Section, Layer 11 Bot, Tracker"   |
 | `GAPS-TKR-MEC-404` |  AL0   |   6   |        |       | "Center Section, Layer 11 Upper, Tracker" |
 | `GAPS-TKR-MEC-501` |  AL0   |   1   |        |       | "Section 1, Layer 12, Tracker"            |
+| `GAPS-TKR-MEC-502` |  AL0   |   1   |        |       | "Section 2, Layer 12, Tracker"            |
 
 #### Waterjet Cut Component
 
@@ -44,6 +45,7 @@
 | `GAPS-TKR-MEC-401-W` |  AL0   |   6   |        |       | "Center Section, Layer 11 Bot, Tracker"   |
 | `GAPS-TKR-MEC-404-W` |  AL0   |   6   |        |       | "Center Section, Layer 11 Upper, Tracker" |
 | `GAPS-TKR-MEC-501-W` |  AL0   |   1   |        |       | "Section 1, Layer 12, Tracker"            |
+| `GAPS-TKR-MEC-502-W` |  AL0   |   1   |        |       | "Section 2, Layer 12, Tracker"            |
 
 ### Layer Assemblies
 
