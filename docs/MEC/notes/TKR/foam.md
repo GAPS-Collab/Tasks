@@ -29,6 +29,7 @@
 |  `GAPS-TKR-MEC-204`  |  All   |  252  |        |       | "Locating Dowel, Large"                      |
 |  `GAPS-TKR-MEC-205`  |  All   |  40   |        |       | "Locating Dowel, Small"                      |
 |  `GAPS-TKR-MEC-301`  |  BEL   |  24   |        |       | "Center Section, Even Layers, Tracker"       |
+|  `GAPS-TKR-MEC-306`  |  BL0   |   6   |        |       | "Center Section, Layer 10 Top, Tracker"      |
 |  `GAPS-TKR-MEC-401`  |  AL0   |   6   |        |       | "Center Section, Layer 11 Bot, Tracker"      |
 | `GAPS-TKR-MEC-402-A` |  AL0   |   1   |        |       | "Outer Section 1, Layer 11, Tracker, A Half" |
 | `GAPS-TKR-MEC-402-B` |  AL0   |   1   |        |       | "Outer Section 1, Layer 11, Tracker, B Half" |
@@ -48,6 +49,7 @@
 |  `GAPS-TKR-MEC-204`  |  All   |  240  |        |       | "Locating Dowel, Large"                             |
 |  `GAPS-TKR-MEC-205`  |  All   |  40   |        |       | "Locating Dowel, Small"                             |
 | `GAPS-TKR-MEC-301-W` |  BEL   |  24   |        |       | "Center Section, Even Layers, Tracker"              |
+| `GAPS-TKR-MEC-306-W` |  BL0   |   6   |        |       | "Center Section, Layer 10 Top, Tracker, Waterjet"   |
 | `GAPS-TKR-MEC-401-W` |  AL0   |   6   |        |       | "Center Section, Layer 11 Bot, Tracker"             |
 | `GAPS-TKR-MEC-402-W` |  AL0   |   2   |        |       | "Outer Section 1, Layer 11, Tracker, Waterjet Half" |
 | `GAPS-TKR-MEC-403-W` |  AL0   |   2   |        |       | "Outer Section 2, Layer 11, Tracker, Waterjet Half" |
@@ -112,6 +114,5 @@
 |:------------------:|:---------:|:-----:|:----------------------------------------|
 |                    | per Layer | TOTAL |                                         |
 | `GAPS-TKR-MEC-305` |     6     |   6   | "Center Section, Layer 10 Bot, Tracker" |
-| `GAPS-TKR-MEC-306` |     6     |   6   | "Center Section, Layer 10 Top, Tracker" |
 | `GAPS-TKR-MEC-302` |     1     |   1   | "Outer Section 1, Mid Layers, Tracker"  |
 | `GAPS-TKR-MEC-303` |     1     |   1   | "Outer Section 2, Mid Layers, Tracker"  |
