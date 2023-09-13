@@ -26,7 +26,7 @@
 |    Foam Component    | Where? |  QTY  |  QTY   |  QTY  | Notes                                        |
 |:--------------------:|:------:|:-----:|:------:|:-----:|:---------------------------------------------|
 |                      |        | Exact | Spares | TOTAL |                                              |
-|  `GAPS-TKR-MEC-204`  |  All   |  240  |        |       | "Locating Dowel, Large"                      |
+|  `GAPS-TKR-MEC-204`  |  All   |  252  |        |       | "Locating Dowel, Large"                      |
 |  `GAPS-TKR-MEC-205`  |  All   |  40   |        |       | "Locating Dowel, Small"                      |
 |  `GAPS-TKR-MEC-301`  |  BEL   |  24   |        |       | "Center Section, Even Layers, Tracker"       |
 |  `GAPS-TKR-MEC-401`  |  AL0   |   6   |        |       | "Center Section, Layer 11 Bot, Tracker"      |
