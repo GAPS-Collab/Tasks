@@ -29,6 +29,8 @@
 |  `GAPS-TKR-MEC-204`  |      All      |  252  |        |       | "Locating Dowel, Large"                        |
 |  `GAPS-TKR-MEC-205`  |      All      |  40   |        |       | "Locating Dowel, Small"                        |
 |  `GAPS-TKR-MEC-301`  |      BEL      |  24   |        |       | "Center Section, Even Layers, Tracker"         |
+| `GAPS-TKR-MEC-302-A` | BEL, BOL, BL0 |   9   |        |       | "Outer Section 1, Mid Layers, Tracker, A Half" |
+| `GAPS-TKR-MEC-302-B` | BEL, BOL, BL0 |   9   |        |       | "Outer Section 1, Mid Layers, Tracker, B Half" |
 | `GAPS-TKR-MEC-303-A` | BEL, BOL, BL0 |   9   |        |       | "Outer Section 2, Mid Layers, Tracker, A Half" |
 | `GAPS-TKR-MEC-303-B` | BEL, BOL, BL0 |   9   |        |       | "Outer Section 2, Mid Layers, Tracker, B Half" |
 |  `GAPS-TKR-MEC-305`  |      BL0      |   6   |        |       | "Center Section, Layer 10 Bot, Tracker"        |
@@ -54,6 +56,8 @@
 |  `GAPS-TKR-MEC-204`   |      All      |  253  |        |       | "Locating Dowel, Large"                                 |
 |  `GAPS-TKR-MEC-205`   |      All      |  40   |        |       | "Locating Dowel, Small"                                 |
 | `GAPS-TKR-MEC-301-W`  |      BEL      |  24   |        |       | "Center Section, Even Layers, Tracker"                  |
+| `GAPS-TKR-MEC-302-AW` | BEL, BOL, BL0 |   9   |        |       | "Outer Section 1, Mid Layers, Tracker, A Half Waterjet" |
+| `GAPS-TKR-MEC-302-BW` | BEL, BOL, BL0 |   9   |        |       | "Outer Section 1, Mid Layers, Tracker, B Half Waterjet" |
 | `GAPS-TKR-MEC-303-AW` | BEL, BOL, BL0 |   9   |        |       | "Outer Section 2, Mid Layers, Tracker, A Half Waterjet" |
 | `GAPS-TKR-MEC-303-BW` | BEL, BOL, BL0 |   9   |        |       | "Outer Section 2, Mid Layers, Tracker, B Half Waterjet" |
 | `GAPS-TKR-MEC-305-W`  |      BL0      |  12   |        |       | "Center Section, Layer 10 Bot, Tracker, Waterjet"       |
@@ -90,17 +94,6 @@
 | `GAPS-TKR-MEC-202` |     1     |   1   | "Outer Section 1, Layer 1, Tracker" |
 | `GAPS-TKR-MEC-203` |     1     |   1   | "Outer Section 2, Layer 1, Tracker" |
 
-
-### Even Layers (8, 6, 4, & 2)
-
-- Interface boards face non-boom side
-
-|   Foam Component   |    QTY    |  QTY  | Notes                                  |
-|:------------------:|:---------:|:-----:|:---------------------------------------|
-|                    | per Layer | TOTAL |                                        |
-| `GAPS-TKR-MEC-302` |     1     |   4   | "Outer Section 1, Mid Layers, Tracker" |
-
-
 ### Odd Layers (7, 5, 3, & 1)
 
 - Interface boards face radiator side
@@ -109,15 +102,3 @@
 |:------------------:|:---------:|:-----:|:---------------------------------------|
 |                    | per Layer | TOTAL |                                        |
 | `GAPS-TKR-MEC-304` |     6     |  24   | "Center Section, Odd Layers, Tracker"  |
-| `GAPS-TKR-MEC-302` |     1     |   4   | "Outer Section 1, Mid Layers, Tracker" |
-
-
-### Layer 0 (Top Detector Layer)
-
-- Interface boards face non-boom side
-
-|   Foam Component   |    QTY    |  QTY  | Notes                                   |
-|:------------------:|:---------:|:-----:|:----------------------------------------|
-|                    | per Layer | TOTAL |                                         |
-| `GAPS-TKR-MEC-305` |     6     |   6   | "Center Section, Layer 10 Bot, Tracker" |
-| `GAPS-TKR-MEC-302` |     1     |   1   | "Outer Section 1, Mid Layers, Tracker"  |
