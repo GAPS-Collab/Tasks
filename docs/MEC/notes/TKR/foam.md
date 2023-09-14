@@ -33,6 +33,7 @@
 | `GAPS-TKR-MEC-302-B` | BEL, BOL, BL0 |   9   |        |       | "Outer Section 1, Mid Layers, Tracker, B Half" |
 | `GAPS-TKR-MEC-303-A` | BEL, BOL, BL0 |   9   |        |       | "Outer Section 2, Mid Layers, Tracker, A Half" |
 | `GAPS-TKR-MEC-303-B` | BEL, BOL, BL0 |   9   |        |       | "Outer Section 2, Mid Layers, Tracker, B Half" |
+|  `GAPS-TKR-MEC-304`  |      BOL      |  24   |        |       | "Center Section, Odd Layers, Tracker"          |
 |  `GAPS-TKR-MEC-305`  |      BL0      |   6   |        |       | "Center Section, Layer 10 Bot, Tracker"        |
 |  `GAPS-TKR-MEC-306`  |      BL0      |   6   |        |       | "Center Section, Layer 10 Top, Tracker"        |
 |  `GAPS-TKR-MEC-401`  |      AL0      |   6   |        |       | "Center Section, Layer 11 Bot, Tracker"        |
@@ -60,6 +61,7 @@
 | `GAPS-TKR-MEC-302-BW` | BEL, BOL, BL0 |   9   |        |       | "Outer Section 1, Mid Layers, Tracker, B Half Waterjet" |
 | `GAPS-TKR-MEC-303-AW` | BEL, BOL, BL0 |   9   |        |       | "Outer Section 2, Mid Layers, Tracker, A Half Waterjet" |
 | `GAPS-TKR-MEC-303-BW` | BEL, BOL, BL0 |   9   |        |       | "Outer Section 2, Mid Layers, Tracker, B Half Waterjet" |
+| `GAPS-TKR-MEC-304-W`  |      BOL      |  24   |        |       | "Center Section, Odd Layers, Tracker, Waterjet"         |
 | `GAPS-TKR-MEC-305-W`  |      BL0      |  12   |        |       | "Center Section, Layer 10 Bot, Tracker, Waterjet"       |
 | `GAPS-TKR-MEC-306-W`  |      BL0      |  --   |   --   |  --   | "Center Section, Layer 10 Top, Tracker, Waterjet"       |
 | `GAPS-TKR-MEC-401-W`  |      AL0      |   6   |        |       | "Center Section, Layer 11 Bot, Tracker"                 |
@@ -93,12 +95,3 @@
 | `GAPS-TKR-MEC-201` |     6     |   6   | "Center Section, Layer 1, Tracker"  |
 | `GAPS-TKR-MEC-202` |     1     |   1   | "Outer Section 1, Layer 1, Tracker" |
 | `GAPS-TKR-MEC-203` |     1     |   1   | "Outer Section 2, Layer 1, Tracker" |
-
-### Odd Layers (7, 5, 3, & 1)
-
-- Interface boards face radiator side
-
-|   Foam Component   |    QTY    |  QTY  | Notes                                  |
-|:------------------:|:---------:|:-----:|:---------------------------------------|
-|                    | per Layer | TOTAL |                                        |
-| `GAPS-TKR-MEC-304` |     6     |  24   | "Center Section, Odd Layers, Tracker"  |
