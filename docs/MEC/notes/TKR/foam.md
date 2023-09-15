@@ -27,6 +27,7 @@
 |:--------------------:|:-------------:|:-----:|:------:|:-----:|:-----------------------------------------------|
 |                      |               | Exact | Spares | TOTAL |                                                |
 |  `GAPS-TKR-MEC-201`  |      BL9      |   6   |        |       | "Center Section, Layer 1, Tracker"             |
+|  `GAPS-TKR-MEC-202`  |      BL9      |   1   |        |       | "Outer Section 1, Layer 1, Tracker"            |
 |  `GAPS-TKR-MEC-204`  |      All      |  252  |        |       | "Locating Dowel, Large"                        |
 |  `GAPS-TKR-MEC-205`  |      All      |  40   |        |       | "Locating Dowel, Small"                        |
 |  `GAPS-TKR-MEC-301`  |      BEL      |  24   |        |       | "Center Section, Even Layers, Tracker"         |
@@ -56,6 +57,7 @@
 |:---------------------:|:-------------:|:-----:|:------:|:-----:|:--------------------------------------------------------|
 |                       |               | Exact | Spares | TOTAL |                                                         |
 | `GAPS-TKR-MEC-201-W`  |      BL9      |   6   |        |       | "Center Section, Layer 1, Tracker, Waterjet"            |
+| `GAPS-TKR-MEC-202-W`  |      BL9      |   1   |        |       | "Outer Section 1, Layer 1, Tracker, Waterjet"           |
 |  `GAPS-TKR-MEC-204`   |      All      |  253  |        |       | "Locating Dowel, Large"                                 |
 |  `GAPS-TKR-MEC-205`   |      All      |  40   |        |       | "Locating Dowel, Small"                                 |
 | `GAPS-TKR-MEC-301-W`  |      BEL      |  24   |        |       | "Center Section, Even Layers, Tracker"                  |
@@ -94,5 +96,4 @@
 |   Foam Component   |    QTY    |  QTY  | Notes                               |
 |:------------------:|:---------:|:-----:|:------------------------------------|
 |                    | per Layer | TOTAL |                                     |
-| `GAPS-TKR-MEC-202` |     1     |   1   | "Outer Section 1, Layer 1, Tracker" |
 | `GAPS-TKR-MEC-203` |     1     |   1   | "Outer Section 2, Layer 1, Tracker" |
