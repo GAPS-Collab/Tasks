@@ -52,7 +52,7 @@
 
 - `305-W` and `306-W` are identical
 - `402-W` and `403-W` are identical
-- `401-W` and `502-W` are identical
+- `501-W` and `502-W` are identical
 
 |    Foam Component     |    Where?     |  QTY  |  QTY   |  QTY  | Thk | Notes                                                   |
 |:---------------------:|:-------------:|:-----:|:------:|:-----:|:---:|:--------------------------------------------------------|
