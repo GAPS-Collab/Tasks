@@ -9,6 +9,7 @@
 |     Component      |  QTY  |  QTY   |  QTY  | Description                       |
 |:------------------:|:-----:|:------:|:-----:|:----------------------------------|
 |                    | Exact | Spares | TOTAL |                                   |
+| `GAPS-FRM-MEC-101` |   1   |        |       | Frame member 34, E-bay            |
 | `GAPS-FRM-MEC-609` |   4   |        |       | Frame member 36, TKR diag support |
 
 #### Screwplates
@@ -24,6 +25,7 @@
 |  `GAPS-FRM-MEC-607`  |   8   |        |       | Screwplate 43, TKR diag support bracket        |
 | `GAPS-FRM-MEC-608-1` |   4   |        |       | Screwplate 44, TKR diag support bracket, Inner |
 | `GAPS-FRM-MEC-608-2` |   4   |        |       | Screwplate 44, TKR diag support bracket, Outer |
+|  `GAPS-FRM-MEC-610`  |   2   |        |       | Screwplate 45, TKR diag support bracket        |
 
 #### Nutplates
 
