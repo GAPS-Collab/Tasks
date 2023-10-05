@@ -9,8 +9,11 @@
 |     Component      |  QTY  |  QTY   |  QTY  | Description                       |
 |:------------------:|:-----:|:------:|:-----:|:----------------------------------|
 |                    | Exact | Spares | TOTAL |                                   |
-| `GAPS-FRM-MEC-101` |   1   |        |       | Frame member 34, E-bay            |
-| `GAPS-FRM-MEC-609` |   4   |        |       | Frame member 36, TKR diag support |
+| `GAPS-FRM-MEC-049` |   1   |   -    |   1   | Frame member 25, E-bay            |
+| `GAPS-FRM-MEC-025` |   1   |   -    |   1   | Frame member 14, E-bay            |
+| `GAPS-FRM-MEC-101` |   1   |   -    |   1   | Frame member 34, E-bay            |
+| `GAPS-FRM-MEC-102` |   1   |   -    |   1   | Frame member 35, E-bay            |
+| `GAPS-FRM-MEC-609` |   4   |   -    |   4   | Frame member 36, TKR diag support |
 
 #### Screwplates
 
