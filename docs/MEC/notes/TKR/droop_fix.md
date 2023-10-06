@@ -36,6 +36,7 @@
 |:--------------------:|:------:|:-----:|:------:|:-----:|:-----------------------------------------|
 |                      |        | Exact | Spares | TOTAL |                                          |
 |    BASE Nutplates    |        |       |        |       |                                          |
+|  `GAPS-FRM-MEC-051`  |        |   8   |        |       | Nutplate 1, Frame                        |
 |  `GAPS-FRM-MEC-056`  |        |  12   |        |       | Nutplate 14, Frame                       |
 |  `GAPS-FRM-MEC-076`  |        |  12   |        |       | Nutplate 16, Frame                       |
 |  `GAPS-FRM-MEC-181`  |        |  32   |        |       | Nutplate 13, Frame                       |
@@ -43,6 +44,8 @@
 |  `GAPS-FRM-MEC-604`  |        |   8   |        |       | Nutplate 35, Frame                       |
 |                      |        |       |        |       |                                          |
 |    ASSY Nutplates    |        |       |        |       |                                          |
+|  `GAPS-FRM-MEC-050`  | `-051` |   -   |   4    |   4   | Nutplate 1 Assy, Frame                   |
+|  `GAPS-FRM-MEC-060`  | `-051` |   -   |   4    |   4   | Nutplate 2 Assy, Frame                   |
 |  `GAPS-FRM-MEC-055`  | `-056` |   8   |   -    |   8   | Nutplate 14 Assy, Frame                  |
 |  `GAPS-FRM-MEC-065`  | `-056` |   4   |   -    |   4   | Nutplate 15 Assy, Frame                  |
 |  `GAPS-FRM-MEC-075`  | `-076` |  12   |   -    |  12   | Nutplate 16 Assy, Frame                  |
