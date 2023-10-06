@@ -4,7 +4,14 @@
 
 ### New Components for Fix
 
+- Schematics and CAD files for all the componets can be found on the
+  GAPS NextCloud, [here](https://gaps1.astro.ucla.edu/nextcloud/index.php/f/7827).
+  For access just sign in with the TOF account, instructions can be found on our wiki.
+
 #### Frame Members
+
+- Frame members area the aluminum sq. tubes that make up the general frame.
+- [NextCloud folder for Frame Members.](https://gaps1.astro.ucla.edu/nextcloud/index.php/f/7833)
 
 |     Component      |  QTY  |  QTY   |  QTY  | Description                       |
 |:------------------:|:-----:|:------:|:-----:|:----------------------------------|
@@ -16,6 +23,10 @@
 | `GAPS-FRM-MEC-609` |   4   |   -    |   4   | Frame member 36, TKR diag support |
 
 #### Screwplates
+
+- Screwplates are the exterior plates used to connect adjacent frame members, these are
+  used in conjunction with the interior nutplates.
+- [NextCloud folder for Screwplates.](https://gaps1.astro.ucla.edu/nextcloud/index.php/f/7834)
 
 |      Component       |  QTY  |  QTY   |  QTY  | Description                                    |
 |:--------------------:|:-----:|:------:|:-----:|:-----------------------------------------------|
@@ -31,6 +42,10 @@
 |  `GAPS-FRM-MEC-610`  |   2   |   2    |   4   | Screwplate 45, TKR diag support bracket        |
 
 #### Nutplates
+
+- Nutplates are the interior plates used to connect adjacent frame members, these are
+  used in conjunction with the exterior screwplates.
+- [NextCloud folder for Nutplates.](https://gaps1.astro.ucla.edu/nextcloud/index.php/f/7835)
 
 |      Component       |  Base  |  QTY  |  QTY   |  QTY  | Description                              |
 |:--------------------:|:------:|:-----:|:------:|:-----:|:-----------------------------------------|
