@@ -34,12 +34,15 @@
 | `GAPS-FRM-MEC-601-1` |   4   |   1    |   5   | Screwplate 41, Frame, Upper Half               |
 | `GAPS-FRM-MEC-601-2` |   4   |   1    |   5   | Screwplate 41, Frame, Lower Half               |
 | `GAPS-FRM-MEC-601-3` |   4   |   4    |   8   | Screwplate 41, Frame, Bridge Half              |
+| *`GAPS-FRM-MEC-602`  |   4   |        |       | Screwplate 46, Frame                           |
 | `GAPS-FRM-MEC-606-1` |   4   |   1    |   5   | Screwplate 42, TKR diag support bracket, Inner |
 | `GAPS-FRM-MEC-606-2` |   4   |   1    |   5   | Screwplate 42, TKR diag support bracket, Outer |
 |  `GAPS-FRM-MEC-607`  |   8   |   2    |  10   | Screwplate 43, TKR diag support bracket        |
 | `GAPS-FRM-MEC-608-1` |   4   |   1    |   5   | Screwplate 44, TKR diag support bracket, Inner |
 | `GAPS-FRM-MEC-608-2` |   4   |   1    |   5   | Screwplate 44, TKR diag support bracket, Outer |
 |  `GAPS-FRM-MEC-610`  |   2   |   2    |   4   | Screwplate 45, TKR diag support bracket        |
+
+\* Second batch of parts
 
 #### Nutplates
 
