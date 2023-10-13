@@ -46,8 +46,13 @@
 
 #### Nutplates
 
-- Nutplates are the interior plates used to connect adjacent frame members, these are
-  used in conjunction with the exterior screwplates.
+- Nutplates are the interior plates used to connect adjacent frame
+  members, these are used in conjunction with the exterior screwplates.
+- An "ASSY Nutplate" is just a version of a "BASE Nutplate" with PEM
+  nuts installed.  For example, `GAPS-FRM-MEC-051` is the base nutplate
+  for assembly nutplates `GAPS-FRM-MEC-050` and `GAPS-FRM-MEC-060`.
+- For instructions/schematics of the "ASSY Nutplates", look to the
+  schematics of the BASE nutplate.
 - [NextCloud folder for Nutplates.](https://gaps1.astro.ucla.edu/nextcloud/index.php/f/7835)
 
 |      Component       |  Base  |  QTY  |  QTY   |  QTY  | Description                              |
@@ -84,7 +89,10 @@
 |  `GAPS-FRM-MEC-613`  |   4   |   2    |   6   | Resting block base, TKR diag support                         |
 |  `GAPS-FRM-MEC-615`  |   8   |   8    |  16   | Screwplate 46 arm, Frame                                     |
 |  `GAPS-TKR-MEC-108`  |   4   |   4    |   8   | nutplate, tracker spacer block                               |
+|  `GAPS-TKR-MEC-101`  |   1   |   -    |   1   | Frame Member 1, Tracker                                      |
+|  `GAPS-TKR-MEC-102`  |   1   |   -    |   1   | Frame Member 2, Tracker                                      |
 |  `GAPS-TKR-MEC-104`  |   2   |   -    |   2   | Support, Bot TOF, Tracker                                    |
 | `GAPS-TKR-MEC-105-1` |   4   |   2    |   6   | Spacer Block, Tracker, Variation 1, anchor and lower threads |
 | `GAPS-TKR-MEC-105-2` |   4   |   4    |   8   | Spacer Block, Tracker, Variation 2, all threads              |
+|  `GAPS-TKR-MEC-625`  |   5   |   -    |   5   | Rib 1 Inner, Tracker Base                                    |
 |  `GAPS-TKR-MEC-629`  |   2   |   -    |   2   | Rib 4 Inner, Tracker Base                                    |
