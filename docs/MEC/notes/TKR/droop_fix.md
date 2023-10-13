@@ -13,14 +13,18 @@
 - Frame members area the aluminum sq. tubes that make up the general frame.
 - [NextCloud folder for Frame Members.](https://gaps1.astro.ucla.edu/nextcloud/index.php/f/7833)
 
-|     Component      |  QTY  |  QTY   |  QTY  | Description                       |
-|:------------------:|:-----:|:------:|:-----:|:----------------------------------|
-|                    | Exact | Spares | TOTAL |                                   |
-| `GAPS-FRM-MEC-025` |   1   |   -    |   1   | Frame member 14, E-bay            |
-| `GAPS-FRM-MEC-049` |   1   |   -    |   1   | Frame member 25, E-bay            |
-| `GAPS-FRM-MEC-101` |   1   |   -    |   1   | Frame member 34, E-bay            |
-| `GAPS-FRM-MEC-102` |   1   |   -    |   1   | Frame member 35, E-bay            |
-| `GAPS-FRM-MEC-609` |   4   |   -    |   4   | Frame member 36, TKR diag support |
+|      Component       |  QTY  |  QTY   |  QTY  | Description                       |
+|:--------------------:|:-----:|:------:|:-----:|:----------------------------------|
+|                      | Exact | Spares | TOTAL |                                   |
+|  `GAPS-FRM-MEC-025`  |   1   |   -    |   1   | Frame member 14, E-bay            |
+|  `GAPS-FRM-MEC-049`  |   1   |   -    |   1   | Frame member 25, E-bay            |
+|  `GAPS-FRM-MEC-101`  |   1   |   -    |   1   | Frame member 34, E-bay            |
+|  `GAPS-FRM-MEC-102`  |   1   |   -    |   1   | Frame member 35, E-bay            |
+|  `GAPS-FRM-MEC-609`  |   4   |   -    |   4   | Frame member 36, TKR diag support |
+| * `GAPS-TKR-MEC-101` |   1   |   -    |   1   | Frame Member 1, Tracker           |
+| * `GAPS-TKR-MEC-102` |   1   |   -    |   1   | Frame Member 2, Tracker           |
+
+\* Second batch of parts
 
 #### Screwplates
 
@@ -97,8 +101,6 @@
 |  `GAPS-FRM-MEC-613`  |   4   |   2    |   6   | Resting block base, TKR diag support                         |
 |  `GAPS-FRM-MEC-615`  |   8   |   8    |  16   | Screwplate 46 arm, Frame                                     |
 |  `GAPS-TKR-MEC-108`  |   4   |   4    |   8   | nutplate, tracker spacer block                               |
-|  `GAPS-TKR-MEC-101`  |   1   |   -    |   1   | Frame Member 1, Tracker                                      |
-|  `GAPS-TKR-MEC-102`  |   1   |   -    |   1   | Frame Member 2, Tracker                                      |
 |  `GAPS-TKR-MEC-104`  |   2   |   -    |   2   | Support, Bot TOF, Tracker                                    |
 | `GAPS-TKR-MEC-105-1` |   4   |   2    |   6   | Spacer Block, Tracker, Variation 1, anchor and lower threads |
 | `GAPS-TKR-MEC-105-2` |   4   |   4    |   8   | Spacer Block, Tracker, Variation 2, all threads              |
