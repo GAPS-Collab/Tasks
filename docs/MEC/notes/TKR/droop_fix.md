@@ -82,6 +82,9 @@
 
 #### Remaining Components
 
+- Ths section contains all the additional droop fix components that
+  do not fall under the above categories.
+
 |      Component       |  QTY  |  QTY   |  QTY  | Description                                                  |
 |:--------------------:|:-----:|:------:|:-----:|:-------------------------------------------------------------|
 |                      | Exact | Spares | TOTAL |                                                              |
