@@ -79,6 +79,11 @@
 | `GAPS-FRM-MEC-605-1` | `-604` |   4   |   1    |   5   | Nutplate 35 Assy, Frame, PEM Variation 1 |
 | `GAPS-FRM-MEC-605-2` | `-604` |   4   |   1    |   5   | Nutplate 35 Assy, Frame, PEM Variation 2 |
 
+- Nut plates associated with `GAPS-FRM-MEC-051` AND `GAPS-FRM-MEC-186`
+  are not needed for the droop fix.  However, they are being included
+  since they are the nutplates that see a lot of wear from gondola
+  separations.  I've already seen some damage to the existing nutplates,
+  so these will be replacements/spares going forward.
 
 #### Remaining Components
 
