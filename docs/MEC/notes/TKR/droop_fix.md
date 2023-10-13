@@ -100,9 +100,9 @@
 |  `GAPS-FRM-MEC-612`  |   8   |   4    |  12   | Resting block nutplate, TKR diag support                     |
 |  `GAPS-FRM-MEC-613`  |   4   |   2    |   6   | Resting block base, TKR diag support                         |
 |  `GAPS-FRM-MEC-615`  |   8   |   8    |  16   | Screwplate 46 arm, Frame                                     |
-|  `GAPS-TKR-MEC-108`  |   4   |   4    |   8   | nutplate, tracker spacer block                               |
 |  `GAPS-TKR-MEC-104`  |   2   |   -    |   2   | Support, Bot TOF, Tracker                                    |
 | `GAPS-TKR-MEC-105-1` |   4   |   2    |   6   | Spacer Block, Tracker, Variation 1, anchor and lower threads |
 | `GAPS-TKR-MEC-105-2` |   4   |   4    |   8   | Spacer Block, Tracker, Variation 2, all threads              |
+|  `GAPS-TKR-MEC-108`  |   4   |   4    |   8   | nutplate, tracker spacer block                               |
 |  `GAPS-TKR-MEC-625`  |   5   |   -    |   5   | Rib 1 Inner, Tracker Base                                    |
 |  `GAPS-TKR-MEC-629`  |   2   |   -    |   2   | Rib 4 Inner, Tracker Base                                    |
