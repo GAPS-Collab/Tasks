@@ -17,4 +17,9 @@ and then route all the relevant cables from the panel to the associated
 RAT.  The umbilical cables need to routed across the UMB frame and
 down the diagonals of the UMB frame.
 
+The Umbrella is composed of 6 RATs numbered 1-6 and 7 TOF panels
+numbered 7 - 13, see image below.  The image also show which paddles
+in which panels get connect to which RAT.  For example, paddle 79 in
+panel 09 get connected to RAT 05.
 
+![img.png](umb_layout_and_hookup.png)
