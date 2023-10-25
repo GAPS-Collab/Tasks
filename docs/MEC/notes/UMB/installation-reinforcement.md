@@ -4,7 +4,7 @@ This document defines the installation instructions for the UMB
 reinforcement member, `GAPS-FRM-MEC-061`.
 
 ## Documents
-[PDF -061]: https://gaps1.astro.ucla.edu/nextcloud/index.php/f/7333
+[PDF -061]: https://gaps1.astro.ucla.edu/nextcloud/index.php/f/8748
 
 * [PDF schematic for `GAPS-FRM-MEC-061`][PDF -061]
 
@@ -27,6 +27,9 @@ reinforcement member, `GAPS-FRM-MEC-061`.
 | SCREW, 10-32 X 1" L  | 12  |   [92979A154]   | GRADE 5, ZINC-PLATED                      |
 
 ## Installation Instructions
+
+**Note:**  The [PDF Schematic][PDF -061] for `GAPS-FRM-MEC-061` includeds
+a installation/BOM page.
 
 1. If not done already, remove the 10-32 screws from the ATLAS nuts on
    the main frame member `GAPS-FRM-MEC-510`.  To remove the screw, first
