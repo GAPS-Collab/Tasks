@@ -83,4 +83,4 @@ a installation/BOM diagram.
        lower torque value.
 9. Repeat steps 1-8 for the second reinforcement member.
 
-![img.png](GAPS-FRM-MEC-061 installation diagram.png)
+![img.png](GAPS-FRM-MEC-061_installation_diagram.png)
