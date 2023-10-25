@@ -28,8 +28,8 @@ reinforcement member, `GAPS-FRM-MEC-061`.
 
 ## Installation Instructions
 
-**Note:**  The [PDF Schematic][PDF -061] for `GAPS-FRM-MEC-061` includeds
-a installation/BOM page.
+**Note:**  The [PDF Schematic][PDF -061] for `GAPS-FRM-MEC-061` includes
+a installation/BOM diagram.
 
 1. If not done already, remove the 10-32 screws from the ATLAS nuts on
    the main frame member `GAPS-FRM-MEC-510`.  To remove the screw, first
@@ -82,3 +82,5 @@ a installation/BOM page.
        is not the case, then the ATLAS nut will start spinning at a much
        lower torque value.
 9. Repeat steps 1-8 for the second reinforcement member.
+
+![img.png](GAPS-FRM-MEC-061 installation diagram.png)
