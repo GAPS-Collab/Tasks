@@ -48,11 +48,34 @@ panel 09 get connected to RAT 05.
   WRENCH, INSTEAD USE A SOCKET.**  This could be a 5/16" socket on a
   driver or a ratchet.  If you have to deal with a threaded road or a
   long screw, then use the [pass-through wrench](https://a.co/d/jaLb467).
+- Always creep up on a torque spec!!  **WHEN IN DOUBT, STOP TORQUING AND
+  GET A SECOND OPINION FOR SOMEONE WITH EXPERIENCE.**  We do NOT have
+  spares for UMB mounts, so a stripped tap or broken screw will set us
+  back for a significant period of time.
+
+### Assembly Schematics
+
+[Panel 10 & 13 PDF]: 
+[Panel 8 & 11 PDF]:
+[Panel 9 & 12 PDF]: 
+[Panel 7 PDF]: 
+
+I've generated assembly/BOM documents for each mounting variations.  These
+documents have exploded views of the mounts, list of components, and
+torque specs.  All the documents are on the GAPS NextCloud, and I'm linking
+them below:
+
+* [Panel 10 & 13 PDF]
+* [Panel 8 & 11 PDF]:
+* [Panel 9 & 12 PDF]: 
+* [Panel 7 PDF]:
 
 ### Hardware
 
 [washer no 10 .688 OD]: https://www.mcmaster.com/90313A103/
 [washer no 10 .75 OD]: https://www.mcmaster.com/90313A400/
+[washer no 10 .354 OD 1x]: https://www.mcmaster.com/5360N124/
+[washer no 10 .354 OD 2x]: https://www.mcmaster.com/5360N125/
 
 |           Component           |    QTY    | Description & Notes               |
 |:-----------------------------:|:---------:|:----------------------------------|
@@ -68,3 +91,15 @@ panel 09 get connected to RAT 05.
 
 ### Installation Instructions
 
+1. Before installing any panels, attach the mounting bars to the gondola.
+   * This needs to be done first, since some bars have never been mounted and we
+     need to ensure that all tapped holes are deep enough to accept the hardware.
+   * You don't need to torque the fasteners in this step, just make them hand
+     tight.
+   * If a tapped hole does NOT have enough threads, then it needs to be tapped
+     further.  Take a BOTTOM/BUTT tap and cut a few more threads.  A FLUTE tap
+     will likely not work for this step, but a PLUG tap might work.
+   * If tapping still does not work, then use either a
+     [5360N124][washer no 10 .354 OD 1x] or
+     [5360N125][washer no 10 .354 OD 2x], with the latter being the
+     thicker one.  Use only one washer and side with using the thinner one.
