@@ -1,5 +1,13 @@
 # Umbrella Installation Instructions
 
+[standoff 10-32 x .281 L]: https://www.mcmaster.com/91780A450/
+[standoff 10-32 x .313 L]: https://www.mcmaster.com/91780A453/
+[standoff 10-32 x .344 L]: https://www.mcmaster.com/91780A456/
+[washer no 10 .688 OD]: https://www.mcmaster.com/90313A103/
+[washer no 10 .75 OD]: https://www.mcmaster.com/90313A400/
+[washer no 10 .354 OD 1x]: https://www.mcmaster.com/5360N124/
+[washer no 10 .354 OD 2x]: https://www.mcmaster.com/5360N125/
+
 * [TOF Hookup scheme](https://gaps1.astro.ucla.edu/wiki/gaps/images/gaps/9/94/TOF_Hookup_Scheme.pptx)
 * [TOF Cabling](https://gaps1.astro.ucla.edu/wiki/gaps/index.php?title=TOF_Cabling)
 
@@ -28,10 +36,6 @@ panel 09 get connected to RAT 05.
 
 ## Installing TOF Panels
 
-[standoff 10-32 x .281 L]: https://www.mcmaster.com/91780A450/
-[standoff 10-32 x .313 L]: https://www.mcmaster.com/91780A453/
-[standoff 10-32 x .344 L]: https://www.mcmaster.com/91780A456/
-
 - The UMB TOF panels do not all sit in the same plane, so the order of
   installation matters.  In fact, the umbrella is staggered in 4 layers:
 
@@ -55,7 +59,7 @@ panel 09 get connected to RAT 05.
 
 ### Assembly Schematics
 
-[Panel 10 & 13 PDF]: 
+[Panel 10 & 13 PDF]: https://gaps1.astro.ucla.edu/nextcloud/index.php/f/8753
 [Panel 8 & 11 PDF]:
 [Panel 9 & 12 PDF]: 
 [Panel 7 PDF]: 
@@ -66,31 +70,11 @@ torque specs.  All the documents are on the GAPS NextCloud, and I'm linking
 them below:
 
 * [Panel 10 & 13 PDF]
-* [Panel 8 & 11 PDF]:
-* [Panel 9 & 12 PDF]: 
-* [Panel 7 PDF]:
-
-### Hardware
-
-[washer no 10 .688 OD]: https://www.mcmaster.com/90313A103/
-[washer no 10 .75 OD]: https://www.mcmaster.com/90313A400/
-[washer no 10 .354 OD 1x]: https://www.mcmaster.com/5360N124/
-[washer no 10 .354 OD 2x]: https://www.mcmaster.com/5360N125/
-
-|           Component           |    QTY    | Description & Notes               |
-|:-----------------------------:|:---------:|:----------------------------------|
-|                               | per panel |                                   |
-|      **Panels 10 & 13**       |           |                                   |
-|      `GAPS-UMB-MEC-107`       |     1     | Mounting Bar, Inboard             |
-|      `GAPS-UMB-MEC-114`       |     1     | Mounting Bar, Outboard            |
-|      `GAPS-UMB-MEC-115`       |     6     | Shoulder Washer, Outboard         |
-|      `GAPS-UMB-MEC-121`       |     6     | Shoulder Washer, Inboard          |
-| WASHER, FOR NO. 10 X .688" OD |    12     | [90313A103][washer no 10 .688 OD] |
-| WASHER, FOR NO. 10 X .75" OD  |    12     | [90313A400][washer no 10 .75 OD]  |
-
+* [Panel 8 & 11 PDF]
+* [Panel 9 & 12 PDF] 
+* [Panel 7 PDF]
 
 ### Installation Instructions
-https://track.sendcutsend.com/sz9v7qkbybgw
 
 **NOTE:** Currently we only have QTY 24 of the load spreaders `TOF-PAN-011`.  I have
 another QTY 24 in production and scheduled to ship on 10/30
