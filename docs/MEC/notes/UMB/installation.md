@@ -7,9 +7,11 @@
 [washer no 10 .75 OD]: https://www.mcmaster.com/90313A400/
 [washer no 10 .354 OD 1x]: https://www.mcmaster.com/5360N124/
 [washer no 10 .354 OD 2x]: https://www.mcmaster.com/5360N125/
+[Hookup Scheme]: https://gaps1.astro.ucla.edu/wiki/gaps/images/gaps/9/94/TOF_Hookup_Scheme.pptx
+[TOF Cabling]: https://gaps1.astro.ucla.edu/wiki/gaps/index.php?title=TOF_Cabling
 
-* [TOF Hookup scheme](https://gaps1.astro.ucla.edu/wiki/gaps/images/gaps/9/94/TOF_Hookup_Scheme.pptx)
-* [TOF Cabling](https://gaps1.astro.ucla.edu/wiki/gaps/index.php?title=TOF_Cabling)
+* [TOF Hookup scheme][Hookup Scheme]
+* [TOF Cabling]
 
 There are 4 main components to installing the Umbrella.
 
@@ -89,6 +91,38 @@ panel 09 get connected to RAT 05.
   through construction, so all panels may not have these stickers yet.
   If the stickers are not present, then the top of the penal will have
   a piece of blue tape indicated the PID.
+
+### How to Read Panel Cables
+
+Every SMA and PWR cable that connects a panel to a RAT is labelled on
+both ends with a scheme that indicates where the cable connects at the
+panel and where the cable connects at the RAT.  A detailed explanation
+of this scheme can be found on the GAPS Wiki, [TOF Cabling].
+
+As an example, let's take the label `RAT0109-PO7-062A-LG`.  The last
+part `LG` tells us this is a low-gain channel, which connect to the
+center SMA of the SiPM module and the LTB in the RAT.  The first part
+`RAT0109` tells us the cable connects to RAT01 and to channel 9 of the
+LTB.  A high-gain `HG` cable would connect to the readout boards RB.
+The center part of the label `P07-062A` tells us the cable connects to
+the A-side of paddle 62, which is located in panel 7.
+
+While looking at the face of a RAT, the channel numbers look like...
+
+``` bash
+|--------------------------------------------------------------------------------------------|
+|                                                                                            |
+| LTB  (01) (02) (03) (04) (05) (06) (07) (08)     (09) (10) (11) (12) (13) (14) (15) (16)   |
+|                                                                                            |
+| RB1  (01) (02) (03) (04) (05) (06) (07) (08)                                               |
+|                                                                                            |
+| RB2  (09) (10) (11) (12) (13) (14) (15) (16)                                               |
+|                                                                                            |
+| PB       (02)      (04)      (06)      (08)           (10)      (12)      (14)      (16)   |
+|     (01)      (03)      (05)      (07)           (09)      (11)      (13)      (15)        |
+|                                                                                            |
+|--------------------------------------------------------------------------------------------|
+```
 
 ### Assembly Schematics
 
