@@ -215,7 +215,12 @@ Until all the load spreaders arrive, reserve what we have for inboard mounts and
 panel 7 mounts.  It won't be difficult to replace outboard mounts before the
 whole frame is lifted.
 
-1. Before installing any panels, attach the mounting bars to the gondola.
+1. Place the UMB frame on the ground and in a position with enough clearance
+   around the gondola for staging panels.  All sides should have 5-8ft of
+   clearance, and one of the RAD or SOL sides needs 8-10ft of clearance.
+   Leg legs of the gondola frame should be rested on a piece of wood, and not
+   directly on the concrete ground.
+2. Before installing any panels, attach the mounting bars to the gondola.
    Reference the assembly PDF's linked in [Assembly Schematics](#assembly-schematics).
    * This needs to be done first, since some bars have never been mounted and we
      need to ensure that all tapped holes are deep enough to accept the hardware.
@@ -228,4 +233,66 @@ whole frame is lifted.
      [5360N124][washer no 10 .354 OD 1x] or
      [5360N125][washer no 10 .354 OD 2x], with the latter being the
      thicker one.  Use only one washer and side with using the thinner one.
-2. 
+3. For each panel to come, leave the shipping rails on the panel to help move
+   the panel into place for setup.  The 06PP are stacked in their crates
+   in the order they should be mounted.
+4. Starting with panels 10 and 13... Move the panel to a position near the
+   UMB frame and rest the panel on a stack of foam that is at least 2" tall.
+   Near the gondola should be right next to the panels final position, so
+   the panel can be slid directly under the UMB frame.
+4. Remove the shipping rails and attach the mounting bars to panel using the
+   specified components and hardware. Refer to the
+   [assembly docs](#assembly-schematics) for components and torque specs.
+5. For the shipping rails, place the removed hardware pack into the sliders
+   and place the rails in a safe place for future shipping.
+6. With the mounting bars attach slowly raise the panel by adding addition
+   supporting layers of foam.  At the same time slowly bring the panel under
+   the gondola and into position.
+7. When in close enough position, you can have someone lift the panel and
+   have a second person insert hardware.
+   * If hardware does not thread nicely, then STOP AND RETHINK.  Forcing the
+     fastener can damage threads and we DO NOT have spare components.
+   * If a fastener does not thread it's usually for two reason: (1) your holes
+     and fasteners are not aligned and/or (2) your fastener is at an angle to
+     the threads.
+   * Additionally, do not tighten any fasteners until all fasteners are in
+     threaded.  Doing so will restrict the parts freedom of movement and you'll
+     have a very difficult time getting the remaining fasteners in.
+8. With all the fasteners hand tightened, you can start torquing.  As always,
+   creep up on the torque spec.
+10. If the RAT associated with the panel is not in place and would be in the way
+    for mounting the next panel, then strap the current panel cables out of the
+    way and repeat steps 4-9 for the next panel in the series.  Remember, you
+    are mounting panels 10 and 13, then 8 and 11, and then 9 and 12.  Panel 7
+    is the last panel to be mounted and is detailed further down.
+11. If the panel's associated RAT is not mounted, then follow the
+    [RAT mounting instructions](#mounting-rats) to do so.
+    * At this point the panel cables should also be routed and attached to
+      the RAT.
+    * All cables should be strain relived to the gondola (preferable)
+      or the Top Strap of the panel using zip ties.  The TOF team has flight
+      zip ties that can be used.
+    * If you have never zip tied the cables to a Top Strap before, then please
+      ask some who has for instructions.  You can also reference how the cables
+      were attached during shipping.
+12. Now that you are done with Panels 8-13, all RATs should be mounted, all
+    RAT umbilical cables should be routed, all panel (8-13) cables should be
+    routed and connected, and all fasteners should be torqued.
+13. Access for routing Panel 7 cables will be extremely restricted once Panel 7
+    is mounted.  So, at this stage we'll route cables before attaching cables.
+    Annoying I know!
+    * This step hasn't been done this way before, so you will need to adapt and
+      brainstorm a bit.
+    * [My suggestion] Start by attaching the cables to the RAT and routing the
+      cables along the gondola frame.  Loosely zip-tie the cable along the way
+      for good housekeeping.
+    * Once the panel end of the cable is near where it connects to the paddle,
+      it needs to drop through the center opening of the gondola.
+    * The SiPMs of the Panel 7 point towards the ground.  So, the cable will
+      need to pass by the panel and routed back up to connect to the panel.  To
+      get the cable past the panel, it is best to route it in the gap between
+      two SiPMs. Don't do this in the gap created by the SiPM the cable will
+      eventually connect, since the cable will need to make too tight of a bend
+      to get back to the SiPM.  Instead, pass the cable past the panel a few
+      paddles before or after the cable's final destination.
+14. Now mount Panel 7 repeating steps 4 - 11.
