@@ -101,11 +101,12 @@ them below:
 
 ### Installation Instructions
 
-**NOTE:** Currently we only have QTY 24 of the load spreaders `TOF-PAN-011`.  I have
-another QTY 24 in production and scheduled to ship on 10/30
-([track](https://track.sendcutsend.com/sz9v7qkbybgw)).  Until all the load
-spreaders arrive, reserve what we have for inboard mounts and panel 7 mounts.
-It won't be difficult to replace outboard mounts before the whole frame is lifted.
+**NOTE:** Currently we only have QTY 24 of the load spreaders `TOF-PAN-011`.
+I have another QTY 24 in production and scheduled to be delivered on 10/31
+([track](https://www.fedex.com/apps/fedextrack/?action=track&trackingnumber=785639662959)).
+Until all the load spreaders arrive, reserve what we have for inboard mounts and
+panel 7 mounts.  It won't be difficult to replace outboard mounts before the
+whole frame is lifted.
 
 1. Before installing any panels, attach the mounting bars to the gondola.
    * This needs to be done first, since some bars have never been mounted and we
