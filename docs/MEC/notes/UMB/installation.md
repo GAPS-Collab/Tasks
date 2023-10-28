@@ -50,15 +50,17 @@ panel 09 get connected to RAT 05.
 
 [92200A340]: https://www.mcmaster.com/92200A340/
 [92865A006]: https://www.mcmaster.com/92865A006/
-[98023A029]: https://www.mcmaster.com/98023A029/
+[91525A118]: https://www.mcmaster.com/91525A118/
 
 |       Component       | McMaster PN |   Torque   | Description                            |
 |:---------------------:|:-----------:|:----------:|:---------------------------------------|
 | SHCS, 10-32 x .375" L | [92200A340] | 30 in-lbs  | Mil. Spec., attaches RAT to mount      |
 |  HHCS, 1/4-28 x .75"  | [92865A006] | 115 in-lbs | Grade 5, attaches RAT mount to gondola |
-|   WASHER, for 1/4"    | [98023A029] |            | same as used for rest of gondola       |
+|   WASHER, for 1/4"    | [91525A118] |            | SS316, attaches RAT mount to gondola   |
 
 ### Mounting
+
+[RAT UMB Mount BOM/Assembly](https://gaps1.astro.ucla.edu/nextcloud/index.php/f/13505)
 
 1. First attach the side jumper wires.  There is a bag co-located with each RAT
    that has all the jumper wires.  Make sure the colored ends are connected
@@ -76,7 +78,7 @@ panel 09 get connected to RAT 05.
    attached the TOF panel, then place a piece of foam on the TOF panel to
    protect it.
 4. The whole RAT unit attaches to the gondola using 4x 1/4"-28 screws.  Use
-   a stack of the 1/4"-28 screw ([92865A006]) and washer [98023A029].  It is
+   a stack of the 1/4"-28 screw ([92865A006]) and washer [91525A118].  It is
    tight quarters to get the screws in, but the mount was design with enough
    clearance if you use a 7/16" socket with a 6" extension.  Torque to 
    **115 in-lbs**.
