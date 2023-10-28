@@ -57,6 +57,31 @@ panel 09 get connected to RAT 05.
   spares for UMB mounts, so a stripped tap or broken screw will set us
   back for a significant period of time.
 
+### How to Identify a Panel
+
+* Every paddle has 3x QR code stickers attached.  There is one on the
+  backside of each SiPM module, and one on the paddle face.  The one
+  on the paddle face marks the A side of the paddle.  This will help
+  you reference the paddles in the image above.
+* The QR code stickers have both a QR code and the Paddle ID.  The QR
+  should link you to the calibration data for the paddle.  The Paddle
+  ID is also the number depicted in the image above.
+* The paddles in a paddle overlap each other, which creates two planes
+  of paddles.  The lower plane is the one that rests on the CF sandwich
+  panel and the upper plane is the one touching the Top Straps.
+* The "first" paddle in a panel corresponds to where the first lower
+  plane paddle runs along the edge of the paddles.  For example, for
+  Panel \#7 this corresponds to paddle 61 (see image above).  We often
+  refer to this as the top of the panel.
+* The paddle at the top of a panel will always be the one with the lowest
+  paddle ID and the paddle IDs will sequentially count to the bottom
+  of the panel.
+* Each panel should have white stickers on the one of the Top Straps to
+  indicate it Panel ID (PID).  This was a practice instituted partially
+  through construction, so all panels may not have these stickers yet.
+  If the stickers are not present, then the top of the penal will have
+  a piece of blue tape indicated the PID.
+
 ### Assembly Schematics
 
 [Panel 10 & 13 PDF]: https://gaps1.astro.ucla.edu/nextcloud/index.php/f/8753
