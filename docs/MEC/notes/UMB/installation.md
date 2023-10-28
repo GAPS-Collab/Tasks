@@ -42,7 +42,51 @@ panel 09 get connected to RAT 05.
 
 ![img.png](umb_layout_and_hookup.png)
 
-## Installing RATs
+## Mounting RATs
+
+### Required Hardware
+
+[92200A340]: https://www.mcmaster.com/92200A340/
+[92865A006]: https://www.mcmaster.com/92865A006/
+[98023A029]: https://www.mcmaster.com/98023A029/
+
+|       Component       | McMaster PN |   Torque   | Description                            |
+|:---------------------:|:-----------:|:----------:|:---------------------------------------|
+| SHCS, 10-32 x .375" L | [92200A340] | 30 in-lbs  | Mil. Spec., attaches RAT to mount      |
+|  HHCS, 1/4-28 x .75"  | [92865A006] | 115 in-lbs | Grade 5, attaches RAT mount to gondola |
+|   WASHER, for 1/4"    | [98023A029] |            | same as used for rest of gondola       |
+
+### Mounting
+
+1. First attach the side jumper wires.  There is a bag co-located with each RAT
+   that has all the jumper wires.  Make sure the colored ends are connected
+   as they are depicted below.  **THESE WIRES CAN NOT BE FLIPPED.**  Note that
+   the two banded blue cable goes to the top RB and the single banded blue cable
+   goes to the lower RB.
+   
+   ![img.png](img.png)
+
+2. Using 6x 10-32 SHCS [92200A340], attach the RAT to the RAT UMB mount.  These
+   6 screws come from under the mount and screw into the bottom of the RAT.
+   Torque to **30 in-lbs**.
+3. Now you're ready to attach the RAT to the gondola.  If you have already
+   attached the TOF panel, then place a piece of foam on the TOF panel to
+   protect it.
+4. The whole RAT unit attaches to the gondola using 4x 1/4"-28 screws.  Use
+   a stack of the 1/4"-28 screw ([92865A006]) and washer [98023A029].  It is
+   tight quarters to get the screws in, but the mount was design with enough
+   clearance if you use a 7/16" socket with a 6" extension.  Torque to 
+   **115 in-lbs**.
+5. Connect and route the umbilical cables, this should happen before connecting
+   and routing the panel cables.  The umbilical cables include:
+   
+   - 1x blue ethernet
+   - 1x red ethernet
+   - 1x Y-split Harting cable (goes to RBs)
+   - 1x normal Harting cable (goes to LTB)
+   - 1x PDU cable
+   
+   All these cable are labeled and stored in the yellow pelican-like cases.
 
 ## Installing TOF Panels
 
