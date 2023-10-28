@@ -30,13 +30,6 @@ panel 11.  Then mount RATs 2 and 4, and route the "umbilical" cables.
 Now, route and connect all the cables between the panel and RAT.  All
 cables should be stress relieved to the Gondola as soon as possible.
 
-I recommend installing RATs before any of the TOF panels, and the
-remaining major components (2-4) should be installed in an order where
-the installer still has access.  Typically one would mount the TOF panel
-and then route all the relevant cables from the panel to the associated
-RAT.  The umbilical cables need to routed across the UMB frame and
-down the diagonals of the UMB frame.
-
 The Umbrella is composed of 6 RATs numbered 1-6 and 7 TOF panels
 numbered 7 - 13, see image below.  The image also shows which paddles
 in which panels get connect to which RAT.  For example, paddle 79 in
