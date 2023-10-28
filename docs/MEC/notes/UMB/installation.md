@@ -216,6 +216,7 @@ panel 7 mounts.  It won't be difficult to replace outboard mounts before the
 whole frame is lifted.
 
 1. Before installing any panels, attach the mounting bars to the gondola.
+   Reference the assembly PDF's linked in [Assembly Schematics](#assembly-schematics).
    * This needs to be done first, since some bars have never been mounted and we
      need to ensure that all tapped holes are deep enough to accept the hardware.
    * You don't need to torque the fasteners in this step, just make them hand
@@ -227,3 +228,4 @@ whole frame is lifted.
      [5360N124][washer no 10 .354 OD 1x] or
      [5360N125][washer no 10 .354 OD 2x], with the latter being the
      thicker one.  Use only one washer and side with using the thinner one.
+2. 
