@@ -95,7 +95,7 @@ panel 09 get connected to RAT 05.
 [Panel 10 & 13 PDF]: https://gaps1.astro.ucla.edu/nextcloud/index.php/f/8753
 [Panel 8 & 11 PDF]: https://gaps1.astro.ucla.edu/nextcloud/index.php/f/8756
 [Panel 9 & 12 PDF]: https://gaps1.astro.ucla.edu/nextcloud/index.php/f/8757
-[Panel 7 PDF]: 
+[Panel 7 PDF]: https://gaps1.astro.ucla.edu/nextcloud/index.php/f/8758
 
 I've generated assembly/BOM documents for each mounting variations.  These
 documents have exploded views of the mounts, list of components, and
