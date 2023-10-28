@@ -9,9 +9,11 @@
 [washer no 10 .354 OD 2x]: https://www.mcmaster.com/5360N125/
 [Hookup Scheme]: https://gaps1.astro.ucla.edu/wiki/gaps/images/gaps/9/94/TOF_Hookup_Scheme.pptx
 [TOF Cabling]: https://gaps1.astro.ucla.edu/wiki/gaps/index.php?title=TOF_Cabling
+[PDU Cable Hookup]: https://docs.google.com/spreadsheets/d/1JeqscofEl3fJpouw6M_YKk_H6MmpS8kUMCTMPxKX2ig/edit?usp=sharing
 
 * [TOF Hookup scheme][Hookup Scheme]
 * [TOF Cabling]
+* [PDU Cable Hookup]
 
 There are 4 main components to installing the Umbrella.
 
@@ -62,9 +64,10 @@ panel 09 get connected to RAT 05.
    that has all the jumper wires.  Make sure the colored ends are connected
    as they are depicted below.  **THESE WIRES CAN NOT BE FLIPPED.**  Note that
    the two banded blue cable goes to the top RB and the single banded blue cable
-   goes to the lower RB.
+   goes to the lower RB.  The solid green and red wire bundles are I2C lines,
+   so they are not orientation restricted.
    
-   ![img.png](img.png)
+   ![img.png](RAT_jumper_wires.png)
 
 2. Using 6x 10-32 SHCS [92200A340], attach the RAT to the RAT UMB mount.  These
    6 screws come from under the mount and screw into the bottom of the RAT.
@@ -87,6 +90,22 @@ panel 09 get connected to RAT 05.
    - 1x PDU cable
    
    All these cable are labeled and stored in the yellow pelican-like cases.
+   
+   Refer to the above image for hookup.
+
+6. The umbilical cables need to strain relieved and zip-tied to the gondola
+   frame as soon as possible.  The following table indicates which diagonal
+   the umbilical cables should be routed to...
+
+| RAT |     PDU      |   Ethernet   |   Hartings   |
+|:---:|:------------:|:------------:|:------------:|
+|  1  | SOL/Non-Boom | SOL/Non-Boom | SOL/Non-Boom |
+|  2  |   RAD/Boom   | RAD/Non-Boom | RAD/Non-Boom |
+|  3  | SOL/Non-Boom | SOL/Non-Boom | SOL/Non-Boom |
+|  4  | RAD/Non-Boom | RAD/Non-Boom | RAD/Non-Boom |
+|  5  | RAD/Non-Boom | RAD/Non-Boom | RAD/Non-Boom |
+|  6  |   SOL/Boom   |   SOL/Boom   |   SOL/Boom   |
+
 
 ## Installing TOF Panels
 
