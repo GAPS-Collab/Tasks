@@ -26,7 +26,7 @@ jobs:
 #           destination: wiki
 #           token: ${{ secrets.GITHUB_TOKEN }}
 #           branch: main
-        uses: Andrew-Chen-Wang/github-wiki-action@v4
+        uses: Andrew-Chen-Wang/github-wiki-action@v5
         with:
           strategy: clone
           path: wiki_docs/
